@@ -8,7 +8,8 @@
 - Finale - 음악이 끝나는 순간 새로운 시작으로
 - doorip - 같이 쓰는 여행 투두, 여행 준비
 
+---
 
 ### 📊 Statistics
-![crownjoe's github stats](https://github-readme-stats.vercel.app/api?username=crownjoe)
+![crownjoe's github stats](https://github-readme-stats.vercel.app/api?username=crownjoe&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crownjoe&layout=compact)
