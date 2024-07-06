@@ -1,16 +1,14 @@
-## Hi there 👋
+### 🙉 crownjoe!
+- 🍎 Apple Developer Academy 3기
+- 👩🏻‍💻 SOPT 33기 안드로이드 파트 수료
+- 👩🏻‍💻 KAIST Madcamp (2023.06 ~ 2023.07)
 
-<!--
-**crownjoe/crownjoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 📂 Project
+- Finale - 음악이 끝나는 순간 새로운 시작으로
+- doorip - 같이 쓰는 여행 투두, 여행 준비
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📊 Statistics
+![crownjoe's github stats](https://github-readme-stats.vercel.app/api?username=crownjoe)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crownjoe&layout=compact)
